@@ -4,6 +4,10 @@ Smart Downloads Organizer is a Python automation application that helps users or
 
 The project includes both a graphical interface built with Tkinter and a command-line interface.
 
+## Application Preview
+
+![Smart Downloads Organizer graphical interface](screenshots/app.png)
+
 ## Features
 
 - Organizes files into folders based on their extensions
