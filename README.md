@@ -8,6 +8,10 @@ The project includes both a graphical interface built with Tkinter and a command
 
 ![Smart Downloads Organizer graphical interface](screenshots/app.png)
 
+## Download
+
+[Download the latest Windows release](https://github.com/trumanch/smart-downloads-organizer/releases/latest)
+
 ## Features
 
 - Organizes files into folders based on their extensions
