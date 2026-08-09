@@ -1,0 +1,73 @@
+{
+    "categories": {
+        "Images": [
+            ".jpg",
+            ".jpeg",
+            ".png",
+            ".gif",
+            ".webp",
+            ".svg",
+            ".bmp"
+        ],
+        "Documents": [
+            ".pdf",
+            ".doc",
+            ".docx",
+            ".txt",
+            ".rtf",
+            ".odt"
+        ],
+        "Spreadsheets": [
+            ".xls",
+            ".xlsx",
+            ".csv"
+        ],
+        "Presentations": [
+            ".ppt",
+            ".pptx"
+        ],
+        "Archives": [
+            ".zip",
+            ".rar",
+            ".7z",
+            ".tar",
+            ".gz"
+        ],
+        "Installers": [
+            ".exe",
+            ".msi"
+        ],
+        "Videos": [
+            ".mp4",
+            ".mov",
+            ".avi",
+            ".mkv",
+            ".webm"
+        ],
+        "Music": [
+            ".mp3",
+            ".wav",
+            ".flac",
+            ".m4a"
+        ],
+        "Code": [
+            ".py",
+            ".cpp",
+            ".c",
+            ".h",
+            ".hpp",
+            ".java",
+            ".js",
+            ".ts",
+            ".html",
+            ".css",
+            ".json"
+        ],
+        "Design": [
+            ".psd",
+            ".ai",
+            ".fig",
+            ".xd"
+        ]
+    }
+}
